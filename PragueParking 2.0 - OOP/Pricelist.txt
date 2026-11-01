@@ -1,0 +1,6 @@
+# Pricelist Prague Parking
+# Currency: CZK
+# If you need to change prices, just change the value below
+
+Car=20
+MC=10
